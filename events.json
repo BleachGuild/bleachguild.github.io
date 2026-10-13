@@ -10,5 +10,16 @@
     "status": "cancelled",
     "createdAt": "2026-10-13T12:58:19.765Z",
     "cancelledAt": "2026-10-13T13:00:33.416Z"
+  },
+  {
+    "id": "EV-MV6PRHGO",
+    "title": "TEST SITE SYNC",
+    "date": "2026-10-20",
+    "time": "20:00",
+    "format": "Test",
+    "reward": "",
+    "description": "Test temporaire de synchronisation entre Discord et le site. Ceci n'est pas un événement réel.",
+    "status": "upcoming",
+    "createdAt": "2026-10-13T13:25:32.328Z"
   }
 ]
