@@ -19,7 +19,8 @@
     "format": "Test",
     "reward": "",
     "description": "Test temporaire de synchronisation entre Discord et le site. Ceci n'est pas un événement réel.",
-    "status": "upcoming",
-    "createdAt": "2026-10-13T13:25:32.328Z"
+    "status": "cancelled",
+    "createdAt": "2026-10-13T13:25:32.328Z",
+    "cancelledAt": "2026-10-13T13:37:28.537Z"
   }
 ]
