@@ -7,7 +7,8 @@
     "format": "Test",
     "reward": "",
     "description": "Test temporaire de la connexion entre Discord et GitHub. Ceci n'est pas un événement réel.",
-    "status": "upcoming",
-    "createdAt": "2026-10-13T12:58:19.765Z"
+    "status": "cancelled",
+    "createdAt": "2026-10-13T12:58:19.765Z",
+    "cancelledAt": "2026-10-13T13:00:33.416Z"
   }
 ]
